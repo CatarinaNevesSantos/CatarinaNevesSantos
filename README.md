@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Catarina Santos</h1>
+<h3 align="center">A Software Engineer from Lisbon</h3>
 
-<!--
-**CatarinaNevesSantos/CatarinaNevesSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,flask,postgres,react,html,css,javascript,typescript,selenium,ansible,git,github,jenkins,docker,postman,idea,visualstudio,figma&perline=50" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=catarinanevessantos&show_icons=true&locale=en" alt="catarinanevessantos" />
+</p>
+
