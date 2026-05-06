@@ -8,8 +8,3 @@
     <img src="https://skillicons.dev/icons?i=java,spring,maven,python,flask,postgres,react,html,css,javascript,typescript,selenium,ansible,git,github,jenkins,docker,postman,idea,visualstudio,figma&perline=50" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catarinanevessantos&show_icons=true&locale=en" alt="catarinanevessantos" />
-</p>
-
